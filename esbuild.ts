@@ -9,7 +9,7 @@ build({
     'react',
     'react-dom',
     'uuid',
-    'nedb',
+    '@seald-io/nedb',
   ],
   format: 'cjs',
   outfile: './dist/index.js',
